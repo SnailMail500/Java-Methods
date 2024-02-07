@@ -11,6 +11,6 @@ public class Main {
         newMethod();
         String name = "bob";
         System.out.println(returnString(name));//about as simple a method involving return as possible- takes name... passes it straight back to be printed.
-        //name is passed through as a parameter
+        //name is passed through as an argument, which becomes a parameter to the function. Simples.
     }
 }
